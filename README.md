@@ -10,7 +10,7 @@ Demonstrar competência técnica na manipulação e consulta de bancos de dados 
 
 ## 🗂️ Estrutura do Repositório
 
-* `banco_de_dados_chinook.sql`: Script completo para criação e população do banco de dados (Schema e Dados).
+* `database_chinook.sql`: Script completo para criação e população do banco de dados (Schema e Dados).
 * `resolucao_desafio_chinook.sql`: Arquivo contendo as 15 queries desenvolvidas e comentadas, separadas por níveis de complexidade.
 
 ## 🧠 Habilidades Demonstradas
@@ -32,7 +32,7 @@ Para testar as consultas deste repositório:
     ```bash
     git clone [https://github.com/MarcoViana0303/analise_dados_chinook.git](https://github.com/MarcoViana0303/analise_dados_chinook.git)
     ```
-3.  Abra o arquivo `banco_de_dados_chinook.sql` no seu SGBD (SQL Server) e execute para criar o ambiente.
+3.  Abra o arquivo `database_chinook.sql` no seu SGBD (SQL Server) e execute para criar o ambiente.
 4.  Abra o arquivo `resolucao_desafio_chinook.sql` para visualizar e rodar as queries de análise.
 
 ---
